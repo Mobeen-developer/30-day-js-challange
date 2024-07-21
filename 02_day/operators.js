@@ -130,4 +130,4 @@ console.log("x < 10 || x > 5:", x < 10 || x > 5);
 // Ternary Operator Script
 const number = -7;
 console.log(number >= 0 ? "The number is positive." : "The number is negative.");
-
+// Im changing here to check git command 
